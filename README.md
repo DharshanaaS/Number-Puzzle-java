@@ -1,1 +1,2 @@
 # Number-Puzzle-java
+We can develop Puzzle Game in java using AWT/Swing with event handling. The main theme behind developing puzzle game using java is to provide a creative and competitive environment for the players who will use this system. Playing this game develops the logical thinking of the students  and Kindle their interest towards problem solving games.We can develop the project by adding more features to the game. 
